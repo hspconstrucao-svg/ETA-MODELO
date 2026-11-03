@@ -1,0 +1,7 @@
+APRESENTACAO 3D - PACOTE PARA HOSPEDAGEM
+
+1. Extraia este arquivo ZIP.
+2. Envie o arquivo index.html para a raiz do seu site ou envie a pasta extraida para um serviço de hospedagem de site estatico.
+3. O arquivo index.html ja inclui o modelo e as cenas.
+4. A visualizacao carrega o motor 3D pela CDN jsDelivr; portanto, o navegador do cliente precisa de acesso a internet.
+5. Para atualizar a apresentacao, gere e publique um novo pacote ZIP.
